@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="583793.55" Total="677200.52" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-08T17:41:04" Serie="J" Folio="91" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100200160" Cantidad="144000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1/4-20 x 1-1/2" ObjetoImp="02" ValorUnitario="0.274" Importe="39456.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="39456.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6312.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100300120" Cantidad="111000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 5/16-18 x 1-1/4" ObjetoImp="02" ValorUnitario="0.356" Importe="39516.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="39516.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6322.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100300400" Cantidad="51300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 5/16-18 x 4" ObjetoImp="02" ValorUnitario="0.981" Importe="50325.30">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="50325.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8052.048"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100400120" Cantidad="247000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 3/8-16 x 1-1/4" ObjetoImp="02" ValorUnitario="0.513" Importe="126711.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="126711.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20273.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100300161" Cantidad="105000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO C/C - 5/16-18 x 1-1/2" ObjetoImp="02" ValorUnitario="0.429" Importe="45045.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="45045.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7207.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100400191" Cantidad="401050" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO C/C - 3/8-16 x 1-3/4" ObjetoImp="02" ValorUnitario="0.705" Importe="282740.25">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="282740.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45238.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000666"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="93406.97">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="583793.55" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="93406.97" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

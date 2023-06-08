@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="622422.61" Total="722010.23" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-04-28T15:00:21" Serie="J" Folio="35" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="MAX110907KV1" Nombre="MAXITOR" DomicilioFiscalReceptor="66633" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000300" Cantidad="2160" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 3" ObjetoImp="02" ValorUnitario="10.277" Importe="22198.32">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22198.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3551.731"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000360" Cantidad="1800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 3-1/2" ObjetoImp="02" ValorUnitario="11.52" Importe="20736.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20736.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3317.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000400" Cantidad="1620" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 4" ObjetoImp="02" ValorUnitario="12.766" Importe="20680.92">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20680.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3308.947"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000600" Cantidad="2520" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 6" ObjetoImp="02" ValorUnitario="17.766" Importe="44770.32">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="44770.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7163.251"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1111000400" Cantidad="1320" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 1-8 x 4" ObjetoImp="02" ValorUnitario="14.042" Importe="18535.44">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18535.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2965.670"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000400" Cantidad="1620" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 4" ObjetoImp="02" ValorUnitario="12.766" Importe="20680.92">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20680.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3308.947"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1111200400" Cantidad="900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 1-1/4-7 x 4" ObjetoImp="02" ValorUnitario="22.265" Importe="20038.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20038.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3206.160"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1111101000" Cantidad="540" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 1-1/8-7 X 10" ObjetoImp="02" ValorUnitario="36.874" Importe="19911.96">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19911.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3185.914"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101101000" Cantidad="555" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-1/8-7 X 10" ObjetoImp="02" ValorUnitario="35.36" Importe="19624.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19624.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3139.968"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101100700" Cantidad="720" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-1/8-7 X 7" ObjetoImp="02" ValorUnitario="26.202" Importe="18865.44">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18865.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3018.470"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101201000" Cantidad="432" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-1/4-7 X 10" ObjetoImp="02" ValorUnitario="44.616" Importe="19274.11">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19274.11" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3083.858"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000660" Cantidad="540" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 6-1/2" ObjetoImp="02" ValorUnitario="19.209" Importe="10372.86">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10372.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1659.658"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101000560" Cantidad="630" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-8 x 5-1/2" ObjetoImp="02" ValorUnitario="16.522" Importe="10408.86">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10408.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1665.418"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1101101000" Cantidad="1140" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 1-1/8-7 X 10" ObjetoImp="02" ValorUnitario="35.36" Importe="40310.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="40310.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6449.664"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2103600150" Cantidad="270" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX CL8.8 MM NGO C/V - M36-4.0 x 150" ObjetoImp="02" ValorUnitario="40.773" Importe="11008.71">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11008.71" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1761.394"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2103000080" Cantidad="720" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX CL8.8 MM NGO C/C - M30-3.50 x 80" ObjetoImp="02" ValorUnitario="16.756" Importe="12064.32">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12064.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1930.291"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2103000100" Cantidad="540" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX CL8.8 MM NGO C/C - M30-3.50 x 100" ObjetoImp="02" ValorUnitario="19.256" Importe="10398.24">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10398.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1663.718"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110900400" Cantidad="2880" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 3/4-10 x 4" ObjetoImp="02" ValorUnitario="7.638" Importe="21997.44">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21997.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3519.590"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110900800" Cantidad="680" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 3/4-10 x 8" ObjetoImp="02" ValorUnitario="14.429" Importe="9811.72">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9811.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1569.875"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100900700" Cantidad="1815" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 3/4-10 x 7" ObjetoImp="02" ValorUnitario="11.262" Importe="20440.53">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20440.53" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3270.485"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1115800200" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGO FINO - 5/8-18 x 2" ObjetoImp="02" ValorUnitario="2.994" Importe="10778.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10778.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1724.544"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1100800700" Cantidad="2800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 NGO - 5/8-11 x 7" ObjetoImp="02" ValorUnitario="8.503" Importe="23808.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="23808.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3809.344"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110600160" Cantidad="21600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 1/2-13 x 1-1/2" ObjetoImp="02" ValorUnitario="1.477" Importe="31903.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31903.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5104.512"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1120800200" Cantidad="8880" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX. A-325 NGO - 5/8-11 x 2" ObjetoImp="02" ValorUnitario="2.85" Importe="25308.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="25308.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4049.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110800260" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 5/8-11 x 2-1/2" ObjetoImp="02" ValorUnitario="3.454" Importe="18651.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18651.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2984.256"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110800300" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 5/8-11 x 3" ObjetoImp="02" ValorUnitario="4.016" Importe="21686.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21686.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3469.824"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5150600500" Cantidad="3200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 GALV - 1/2-13 X 5" ObjetoImp="02" ValorUnitario="3.683" Importe="11785.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11785.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1885.696"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5150600500" Cantidad="4500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-5 GALV - 1/2-13 X 5" ObjetoImp="02" ValorUnitario="2.131" Importe="9589.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9589.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1534.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110800160" Cantidad="7200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 5/8-11 x 1-1/2" ObjetoImp="02" ValorUnitario="2.385" Importe="17172.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17172.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2747.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110600300" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 1/2-13 x 3" ObjetoImp="02" ValorUnitario="2.533" Importe="9118.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9118.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1459.008"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1120800190" Cantidad="4500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX. A-325 NGO - 5/8-11 X 1-3/4" ObjetoImp="02" ValorUnitario="2.617" Importe="11776.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11776.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1884.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110800200" Cantidad="7200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 5/8-11 x 2" ObjetoImp="02" ValorUnitario="2.921" Importe="21031.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21031.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3364.992"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110400200" Cantidad="9000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 3/8-16 x 2" ObjetoImp="02" ValorUnitario="0.952" Importe="8568.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8568.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1370.880"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1110500200" Cantidad="7200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEXAGONAL GR-8 NGRO NC - 7/16-14 x 2" ObjetoImp="02" ValorUnitario="1.266" Importe="9115.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9115.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1458.432"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002598"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="99587.62">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="622422.61" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="99587.62" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

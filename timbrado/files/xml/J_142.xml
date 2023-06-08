@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="627891.50" Total="728354.14" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-17T13:46:35" Serie="J" Folio="142" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530060160" Cantidad="3852000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 6 X 1.1/2" ObjetoImp="02" ValorUnitario="0.049" Importe="188748.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="188748.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30199.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530060180" Cantidad="252000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 6 X 1.5/8" ObjetoImp="02" ValorUnitario="0.054" Importe="13608.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13608.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2177.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530080100" Cantidad="1460000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 8 X 1" ObjetoImp="02" ValorUnitario="0.045" Importe="65700.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="65700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10512.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530080190" Cantidad="304000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 8 X 1.3/4 NUEVO" ObjetoImp="02" ValorUnitario="0.075" Importe="22800.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3648.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530080200" Cantidad="490500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 8 X 2" ObjetoImp="02" ValorUnitario="0.085" Importe="41692.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41692.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6670.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530080260" Cantidad="324000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 8 X 2.1/2" ObjetoImp="02" ValorUnitario="0.105" Importe="34020.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="34020.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5443.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530080300" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 8 X 3" ObjetoImp="02" ValorUnitario="0.123" Importe="13284.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13284.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2125.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530100100" Cantidad="576000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 10 X 1" ObjetoImp="02" ValorUnitario="0.061" Importe="35136.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35136.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5621.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1530100300" Cantidad="333000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD MULTIUSOS PH NGRA 10 X 3" ObjetoImp="02" ValorUnitario="0.166" Importe="55278.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="55278.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8844.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1540060120" Cantidad="2453000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA NF P-T-R NGRA 6 X 1.1/4" ObjetoImp="02" ValorUnitario="0.043" Importe="105479.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="105479.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16876.640"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1540060180" Cantidad="749000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA NF P-T-R NGRA 6 X 1.5/8" ObjetoImp="02" ValorUnitario="0.054" Importe="40446.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="40446.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6471.360"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1540060200" Cantidad="180000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA NF P-T-R NGRA 6 X 2" ObjetoImp="02" ValorUnitario="0.065" Importe="11700.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1872.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002859"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="100462.64">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="627891.50" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="100462.64" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="937557.71" Total="1087566.94" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-11T10:29:00" Serie="J" Folio="117" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100600500" Cantidad="5700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/2-13 X 5" ObjetoImp="02" ValorUnitario="2.524" Importe="14386.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14386.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2301.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100600560" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/2-13 X 5.1/2" ObjetoImp="02" ValorUnitario="2.737" Importe="14779.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14779.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2364.768"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800700" Cantidad="7560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 7" ObjetoImp="02" ValorUnitario="5.53" Importe="41806.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41806.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6689.088"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200100" Cantidad="831600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 1" ObjetoImp="02" ValorUnitario="0.163" Importe="135550.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="135550.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21688.128"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100600700" Cantidad="8100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/2-13 X 7" ObjetoImp="02" ValorUnitario="3.378" Importe="27361.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27361.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4377.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="8060600801" Cantidad="2340" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA NEGRO VAS 1/2-13 X 8" ObjetoImp="02" ValorUnitario="4.119" Importe="9638.46">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9638.46" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1542.154"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2040600012" Cantidad="11200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 6 x 12" ObjetoImp="02" ValorUnitario="1.869" Importe="20932.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20932.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3349.248"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2040600020" Cantidad="8000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 6 x 20" ObjetoImp="02" ValorUnitario="1.779" Importe="14232.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14232.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2277.120"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2040600025" Cantidad="9600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 6 x 25" ObjetoImp="02" ValorUnitario="1.873" Importe="17980.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17980.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2876.928"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2040800055" Cantidad="3200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 8 x 55" ObjetoImp="02" ValorUnitario="2.976" Importe="9523.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9523.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1523.712"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041000030" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 10 x 30" ObjetoImp="02" ValorUnitario="2.711" Importe="8133.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8133.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1301.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041000055" Cantidad="2000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 10 x 55" ObjetoImp="02" ValorUnitario="3.442" Importe="6884.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6884.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1101.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041000060" Cantidad="2000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 10 x 60" ObjetoImp="02" ValorUnitario="3.624" Importe="7248.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7248.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1159.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041000100" Cantidad="1200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 10 x 100" ObjetoImp="02" ValorUnitario="5.257" Importe="6308.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6308.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1009.344"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041200025" Cantidad="2800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 12 x 25" ObjetoImp="02" ValorUnitario="4.332" Importe="12129.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12129.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1940.736"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041200035" Cantidad="2000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 12 x 35" ObjetoImp="02" ValorUnitario="4.699" Importe="9398.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9398.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1503.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041200080" Cantidad="1680" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 12 x 80" ObjetoImp="02" ValorUnitario="7.598" Importe="12764.64">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12764.64" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2042.342"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041200100" Cantidad="960" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 12 x 100" ObjetoImp="02" ValorUnitario="8.957" Importe="8598.72">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8598.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1375.795"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041600040" Cantidad="1280" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 16 x 40" ObjetoImp="02" ValorUnitario="7.615" Importe="9747.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9747.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1559.552"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2042000035" Cantidad="960" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 20 x 35" ObjetoImp="02" ValorUnitario="11.799" Importe="11327.04">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11327.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1812.326"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2042000090" Cantidad="480" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 20 x 90" ObjetoImp="02" ValorUnitario="18.869" Importe="9057.12">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9057.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1449.139"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2041200070" Cantidad="1920" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 12 x 70" ObjetoImp="02" ValorUnitario="6.928" Importe="13301.76">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13301.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2128.282"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040600160" Cantidad="4400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 1/2 x 1.1/2" ObjetoImp="02" ValorUnitario="8.702" Importe="38288.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="38288.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6126.208"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040600220" Cantidad="4400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 1/2 x 2.1/4" ObjetoImp="02" ValorUnitario="9.571" Importe="42112.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="42112.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6737.984"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040600460" Cantidad="1800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 1/2 x 4.1/2" ObjetoImp="02" ValorUnitario="19.623" Importe="35321.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35321.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5651.424"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040800120" Cantidad="3840" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 5/8 x 1.1/4" ObjetoImp="02" ValorUnitario="12.968" Importe="49797.12">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="49797.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7967.539"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040800190" Cantidad="2400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 5/8 x 1.3/4" ObjetoImp="02" ValorUnitario="14.345" Importe="34428.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="34428.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5508.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040800220" Cantidad="2000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 5/8 x 2.1/4" ObjetoImp="02" ValorUnitario="16.737" Importe="33474.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="33474.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5355.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1040800360" Cantidad="960" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/GUIA NGO - 5/8 x 3.1/2" ObjetoImp="02" ValorUnitario="24.751" Importe="23760.96">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="23760.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3801.754"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2040800070" Cantidad="2400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET GUIA MM NGO - M 8 x 70" ObjetoImp="02" ValorUnitario="3.518" Importe="8443.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8443.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1350.912"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="8060300561" Cantidad="32400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA NEGRO VAS 5/16-18 X 5-1/2" ObjetoImp="02" ValorUnitario="1.03" Importe="33372.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="33372.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5339.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="8060600801" Cantidad="4680" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA NEGRO VAS 1/2-13 X 8" ObjetoImp="02" ValorUnitario="3.823" Importe="17891.64">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17891.64" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2862.662"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3251100000" Cantidad="8700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 1-1/8 - 7" ObjetoImp="02" ValorUnitario="16.804" Importe="146194.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="146194.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23391.168"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3251200000" Cantidad="1680" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 1-1/4 - 7" ObjetoImp="02" ValorUnitario="22.733" Importe="38191.44">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="38191.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6110.630"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3252000000" Cantidad="172" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 2 - 4.5" ObjetoImp="02" ValorUnitario="88.321" Importe="15191.21">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15191.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2430.594"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000757"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="150009.23">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="937557.71" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="150009.23" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

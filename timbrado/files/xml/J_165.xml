@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="581771.25" Total="674854.65" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-19T11:06:14" Serie="J" Folio="165" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1251400000" Cantidad="7215" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 NEGRA 1.3/8" ObjetoImp="02" ValorUnitario="7.77" Importe="56060.55">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="56060.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8969.688"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1290800000" Cantidad="45000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-5 NC NEGRA 5/8-11" ObjetoImp="02" ValorUnitario="0.663" Importe="29835.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29835.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4773.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1290900000" Cantidad="48600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-5 NC NEGRA 3/4-10" ObjetoImp="02" ValorUnitario="1.085" Importe="52731.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="52731.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8436.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1290800001" Cantidad="22500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-5 NC GALVANIZADA 5/8-11" ObjetoImp="02" ValorUnitario="0.663" Importe="14917.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14917.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2386.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1290900001" Cantidad="32400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-5 NC GALVANIZADA 3/4-10" ObjetoImp="02" ValorUnitario="1.085" Importe="35154.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35154.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5624.640"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1260600000" Cantidad="316800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX 2H NEGRA 1/2-13" ObjetoImp="02" ValorUnitario="0.693" Importe="219542.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="219542.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="35126.784"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1260900000" Cantidad="57600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX 2H NEGRA 3/4-10" ObjetoImp="02" ValorUnitario="2.032" Importe="117043.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="117043.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18726.912"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5280900000" Cantidad="11840" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA FLANGE NC GALV 3/4-10" ObjetoImp="02" ValorUnitario="1.64" Importe="19417.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19417.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3106.816"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5210020000" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA ESTRELLA G2 GALV 4-40" ObjetoImp="02" ValorUnitario="0.08" Importe="4000.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="640.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5210040000" Cantidad="75000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA ESTRELLA G2 GALV 6-32" ObjetoImp="02" ValorUnitario="0.097" Importe="7275.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7275.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1164.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5210200000" Cantidad="140000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA ESTRELLA G2 GALV 1/4-20" ObjetoImp="02" ValorUnitario="0.161" Importe="22540.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22540.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3606.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="6210400000" Cantidad="35000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA ESTRELLA G2 GALV M4-0.70" ObjetoImp="02" ValorUnitario="0.093" Importe="3255.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3255.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="520.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000910"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="93083.40">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="581771.25" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="93083.40" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

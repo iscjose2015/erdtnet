@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="44490" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="674301.72" Total="782190.00" Moneda="MXN" Certificado="" NoCertificado="30001000000400002434" FormaPago="99" Fecha="2022-01-30T22:26:23" Serie="T" Folio="1154" Version="3.3">
+ <cfdi:Emisor Rfc="EKU9003173C9" Nombre="Empresa Demo de Timbrado S.A de C.V." RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="ETR090424E82" Nombre="ELREYTOR TRADING SA DE CV" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420200000" Cantidad="5800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/4-20 X 1MT" ValorUnitario="8.973" Importe="52043.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="52043.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8326.944"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  11  3241  1000004"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420900000" Cantidad="2915" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 3/4-10 X 1MT" ValorUnitario="79.914" Importe="232949.31">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="232949.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37271.890"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  11  3241  1000004"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1421000000" Cantidad="2705" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1-8 X 1MT" ValorUnitario="143.922" Importe="389309.01">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="389309.01" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62289.442"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  11  3241  1000004"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="107888.28">
+  <cfdi:Traslados>
+   <cfdi:Traslado TipoFactor="Tasa" TasaOCuota="0.160000" Importe="107888.28" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

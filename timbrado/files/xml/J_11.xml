@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="1631144.09" Total="1892127.14" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-04-14T09:02:58" Serie="J" Folio="11" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3010200160" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO INX 304 - 1/4-20 x 1-1/2" ObjetoImp="02" ValorUnitario="0.856" Importe="4622.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4622.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="739.584"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3010200200" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO INX 304 - 1/4-20 x 2" ObjetoImp="02" ValorUnitario="1.068" Importe="3844.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3844.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="615.168"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3101000401" Cantidad="240" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 VAS - 1-8 X 4" ObjetoImp="02" ValorUnitario="40.696" Importe="9767.04">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9767.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1562.726"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250300000" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 5/16 - 18" ObjetoImp="02" ValorUnitario="0.403" Importe="52228.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="52228.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8356.608"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250400000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 3/8 - 16" ObjetoImp="02" ValorUnitario="0.574" Importe="49593.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="49593.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7934.976"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="4250600000" Cantidad="76800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX MM INOX 304 - M6 - 1.00" ObjetoImp="02" ValorUnitario="0.183" Importe="14054.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14054.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2248.704"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3010600260" Cantidad="1800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO INX 304 - 1/2-13 x 2-1/2" ObjetoImp="02" ValorUnitario="5.656" Importe="10180.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10180.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1628.928"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3020200060" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA INOX 304 - 1/4-20 x 1/2" ObjetoImp="02" ValorUnitario="0.38" Importe="65664.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="65664.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10506.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3020300090" Cantidad="13900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA INOX 304 - 5/16-18 x 3/4" ObjetoImp="02" ValorUnitario="0.766" Importe="10647.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10647.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1703.584"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3020400200" Cantidad="8100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA INOX 304 - 3/8-16 x 2" ObjetoImp="02" ValorUnitario="2.336" Importe="18921.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18921.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3027.456"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3020400260" Cantidad="6300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA INOX 304 - 3/8-16 x 2-1/2" ObjetoImp="02" ValorUnitario="2.556" Importe="16102.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16102.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2576.448"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3030300060" Cantidad="12000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON INOX 304 - 5/16-18 x 1/2" ObjetoImp="02" ValorUnitario="0.519" Importe="6228.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6228.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="996.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100200060" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 1/4-20 x 1/2" ObjetoImp="02" ValorUnitario="0.399" Importe="68947.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="68947.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11031.552"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100200200" Cantidad="16200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 1/4-20 x 2" ObjetoImp="02" ValorUnitario="0.919" Importe="14887.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14887.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2382.048"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100600160" Cantidad="28800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 1/2-13 x 1-1/2" ObjetoImp="02" ValorUnitario="3.525" Importe="101520.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="101520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16243.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100600400" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 1/2-13 x 4" ObjetoImp="02" ValorUnitario="7.247" Importe="26089.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26089.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4174.272"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100800260" Cantidad="7560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 5/8-11 x 2-1/2" ObjetoImp="02" ValorUnitario="8.627" Importe="65220.12">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="65220.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10435.219"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100800300" Cantidad="4860" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 CC - 5/8-11 x 3" ObjetoImp="02" ValorUnitario="9.948" Importe="48347.28">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="48347.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7735.565"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3100800261" Cantidad="1120" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 304 VAS - 5/8-11 x 2-1/2" ObjetoImp="02" ValorUnitario="9.128" Importe="10223.36">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10223.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1635.738"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250200000" Cantidad="518400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 1/4 - 20" ObjetoImp="02" ValorUnitario="0.25" Importe="129600.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="129600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20736.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250400000" Cantidad="432000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 3/8 - 16" ObjetoImp="02" ValorUnitario="0.521" Importe="225072.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="225072.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36011.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250600000" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 1/2 - 13" ObjetoImp="02" ValorUnitario="1.281" Importe="55339.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="55339.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8854.272"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3250900000" Cantidad="25200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 304 - 3/4 - 10" ObjetoImp="02" ValorUnitario="4.001" Importe="100825.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="100825.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16132.032"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="3420400000" Cantidad="800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCADA INOX 304 - 3 PIES 3/8-16" ObjetoImp="02" ValorUnitario="27.486" Importe="21988.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21988.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3518.208"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="3421200000" Cantidad="225" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCADA INOX 304 - 3 PIES 1-1/4-7" ObjetoImp="02" ValorUnitario="340.244" Importe="76554.90">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="76554.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12248.784"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="3420603000" Cantidad="300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCADA INOX-304 - 3.66 METROS 1/2-13" ObjetoImp="02" ValorUnitario="198.791" Importe="59637.30">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="59637.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9541.968"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3900600160" Cantidad="5600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 316 - 1/2 x 1-1/2" ObjetoImp="02" ValorUnitario="5.311" Importe="29741.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29741.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4758.656"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3900800200" Cantidad="2400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 316 - 5/8 x 2" ObjetoImp="02" ValorUnitario="11.121" Importe="26690.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26690.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4270.464"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3900800260" Cantidad="2100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX INOX 316 - 5/8 x 2-1/2" ObjetoImp="02" ValorUnitario="12.908" Importe="27106.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27106.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4337.088"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="3910600000" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TUERCA HEX INOX 316 - 1/2 - 13" ObjetoImp="02" ValorUnitario="1.994" Importe="71784.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="71784.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11485.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010500020" Cantidad="33600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M5 x 20" ObjetoImp="02" ValorUnitario="0.357" Importe="11995.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11995.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1919.232"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010500030" Cantidad="9600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M5 x 30" ObjetoImp="02" ValorUnitario="0.46" Importe="4416.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4416.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="706.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010800016" Cantidad="13000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M8 x 16" ObjetoImp="02" ValorUnitario="0.857" Importe="11141.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11141.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1782.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010800020" Cantidad="50400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M8 x 20" ObjetoImp="02" ValorUnitario="0.949" Importe="47829.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47829.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7652.736"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010800025" Cantidad="19600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M8 x 25" ObjetoImp="02" ValorUnitario="1.064" Importe="20854.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20854.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3336.704"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010800030" Cantidad="10400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M8 x 30" ObjetoImp="02" ValorUnitario="1.179" Importe="12261.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12261.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1961.856"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4010800060" Cantidad="15400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM INOX 304 - M8 x 60" ObjetoImp="02" ValorUnitario="1.87" Importe="28798.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="28798.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4607.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4021000040" Cantidad="1350" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM INOX 304 - M10 x 40" ObjetoImp="02" ValorUnitario="1.864" Importe="2516.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="2516.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="402.624"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4101000016" Cantidad="16200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX MM INOX 304 - M10 x 16" ObjetoImp="02" ValorUnitario="1.417" Importe="22955.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22955.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3672.864"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4101000020" Cantidad="9000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX MM INOX 304 - M10 x 20" ObjetoImp="02" ValorUnitario="1.559" Importe="14031.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14031.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2244.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4101000045" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX MM INOX 304 - M10 x 45" ObjetoImp="02" ValorUnitario="2.45" Importe="8820.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8820.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1411.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4101400050" Cantidad="900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX MM INOX 304 - M14 x 50" ObjetoImp="02" ValorUnitario="5.661" Importe="5094.90">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5094.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="815.184"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="4102000080" Cantidad="1090" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR C/HEX MM INOX 304 - M20 x 80" ObjetoImp="02" ValorUnitario="17.431" Importe="18999.79">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18999.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3039.966"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002061"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="260983.05">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="1631144.09" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="260983.05" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

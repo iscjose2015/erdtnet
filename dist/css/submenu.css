@@ -1,0 +1,24 @@
+.nav-item ul{
+    display: none;
+    position: absolute;
+    background-color: #084E8B!important;
+    list-style: none;
+}
+.nav-item:hover ul{
+    display: block;
+    top: 45px;
+    padding: 0;
+    color: white;
+}
+.nav-item ul a{
+    color: white;
+    text-decoration: none;
+    min-width: 6rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    padding: .5rem;
+}
+.nav-item ul li:hover{
+background-color: #185e9b;
+}

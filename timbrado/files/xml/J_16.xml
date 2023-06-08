@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="273538.10" Total="317304.20" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-04-14T12:50:46" Serie="J" Folio="16" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420600000" Cantidad="1260" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/2-13 X 1MT" ObjetoImp="02" ValorUnitario="16.099" Importe="20284.74">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20284.74" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3245.558"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420800000" Cantidad="1500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 5/8-11 X 1MT" ObjetoImp="02" ValorUnitario="24.979" Importe="37468.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="37468.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5994.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420900000" Cantidad="1095" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 3/4-10 X 1MT" ObjetoImp="02" ValorUnitario="36.567" Importe="40040.87">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="40040.87" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6406.539"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1421000000" Cantidad="795" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1-8 X 1MT" ObjetoImp="02" ValorUnitario="66.964" Importe="53236.38">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="53236.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8517.821"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="2421000000" Cantidad="2050" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCAD CL 8.8 MM NGA - M10-1.50 x 1 Mt." ObjetoImp="02" ValorUnitario="10.646" Importe="21824.30">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21824.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3491.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="2422400000" Cantidad="350" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCAD CL 8.8 MM NGA - M24-3.00 x 1 Mt." ObjetoImp="02" ValorUnitario="59.242" Importe="20734.70">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20734.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3317.552"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="2423000000" Cantidad="610" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCAD CL 8.8 MM NGA - M30-3.50 x 1 Mt." ObjetoImp="02" ValorUnitario="95.381" Importe="58182.41">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="58182.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9309.186"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="2423600000" Cantidad="150" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCAD CL 8.8 MM NGA - M36-4.00 X 1 Mt." ObjetoImp="02" ValorUnitario="145.108" Importe="21766.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21766.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3482.592"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010830"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="43766.10">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="273538.10" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="43766.10" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

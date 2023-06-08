@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="480071.70" Total="556883.17" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-16T13:14:35" Serie="J" Folio="125" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="8060600200" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA NEGRO 1/2-13 X 2" ObjetoImp="02" ValorUnitario="1.057" Importe="15220.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15220.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2435.328"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="8060600260" Cantidad="37800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA NEGRO 1/2-13 X 2.1/2" ObjetoImp="02" ValorUnitario="1.234" Importe="46645.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="46645.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7463.232"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100400260" Cantidad="81000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 3/8-16 X 2.1/2" ObjetoImp="02" ValorUnitario="0.695" Importe="56295.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="56295.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9007.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100600200" Cantidad="97200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/2-13 X 2" ObjetoImp="02" ValorUnitario="1.156" Importe="112363.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="112363.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17978.112"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800200" Cantidad="9000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 2" ObjetoImp="02" ValorUnitario="1.988" Importe="17892.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17892.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2862.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800300" Cantidad="6300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 3" ObjetoImp="02" ValorUnitario="2.617" Importe="16487.10">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16487.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2637.936"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800600" Cantidad="6720" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 6" ObjetoImp="02" ValorUnitario="4.461" Importe="29977.92">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29977.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4796.467"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100900300" Cantidad="14430" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 3/4-10 X 3" ObjetoImp="02" ValorUnitario="4.032" Importe="58181.76">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="58181.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9309.082"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100900460" Cantidad="2880" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 3/4-10 X 4.1/2" ObjetoImp="02" ValorUnitario="5.413" Importe="15589.44">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15589.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2494.310"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100900560" Cantidad="4320" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 3/4-10 X 5.1/2" ObjetoImp="02" ValorUnitario="6.333" Importe="27358.56">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27358.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4377.370"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100900600" Cantidad="2160" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 3/4-10 X 6" ObjetoImp="02" ValorUnitario="6.792" Importe="14670.72">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14670.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2347.315"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200160" Cantidad="270000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 1.1/2" ObjetoImp="02" ValorUnitario="0.257" Importe="69390.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="69390.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11102.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002534"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="76811.47">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="480071.70" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="76811.47" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

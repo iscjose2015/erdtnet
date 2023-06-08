@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="44490" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="882044.80" Total="1023171.97" Moneda="MXN" Certificado="" NoCertificado="30001000000400002434" FormaPago="99" Fecha="2022-09-08T06:17:24" Serie="T" Folio="1195" Version="3.3">
+ <cfdi:Emisor Rfc="EKU9003173C9" Nombre="Empresa Demo de Timbrado S.A de C.V." RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="LUGJ7110196U0" Nombre="JUDITH LUNA GUTIERREZ" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1460900000" Cantidad="1000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 1 MT 3/4-10" ValorUnitario="70.424" Importe="70424.000">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="70424.000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11267.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1461000000" Cantidad="1925" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 1 MT 1&quot;-8" ValorUnitario="126.833" Importe="244153.525">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="244153.525" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39064.564"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1461200000" Cantidad="178" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 1 MT 1.1/4-8" ValorUnitario="212.254" Importe="37781.212">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="37781.212" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6044.994"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430600000" Cantidad="325" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 1/2-13" ValorUnitario="110.608" Importe="35947.600">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35947.600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5751.616"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430800000" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 5/8-11" ValorUnitario="175.966" Importe="35193.200">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35193.200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5630.912"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430900000" Cantidad="375" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 3/4-10" ValorUnitario="257.627" Importe="96610.125">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="96610.125" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15457.620"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430900000" Cantidad="155" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 3/4-10" ValorUnitario="257.627" Importe="39932.185">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="39932.185" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6389.150"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430950000" Cantidad="400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 7/8-9" ValorUnitario="353.913" Importe="141565.200">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="141565.200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22650.432"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430950000" Cantidad="90" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 7/8-9" ValorUnitario="353.913" Importe="31852.170">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31852.170" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5096.347"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1431000000" Cantidad="160" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 1-8" ValorUnitario="463.911" Importe="74225.760">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="74225.760" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11876.122"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1431000000" Cantidad="84" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 1-8" ValorUnitario="463.911" Importe="38968.524">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="38968.524" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6234.964"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1430950000" Cantidad="100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 7/8-9" ValorUnitario="353.913" Importe="35391.300">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="35391.300" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5662.608"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22   1  6 17  74 2000"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="141127.17">
+  <cfdi:Traslados>
+   <cfdi:Traslado TipoFactor="Tasa" TasaOCuota="0.160000" Importe="141127.17" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="1093141.25" Total="1268043.85" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-02T11:03:10" Serie="J" Folio="37" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030600035" Cantidad="31200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M6 x 35" ObjetoImp="02" ValorUnitario="0.308" Importe="9609.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9609.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1537.536"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030500025" Cantidad="63000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M5 x 25" ObjetoImp="02" ValorUnitario="0.162" Importe="10206.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10206.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1632.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600030" Cantidad="24000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 30" ObjetoImp="02" ValorUnitario="0.224" Importe="5376.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5376.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="860.160"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030600010" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M6 x 10" ObjetoImp="02" ValorUnitario="0.139" Importe="12009.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12009.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1921.536"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010400060" Cantidad="21600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 3/8-16 x 1/2" ObjetoImp="02" ValorUnitario="0.596" Importe="12873.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12873.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2059.776"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600040" Cantidad="54000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 40" ObjetoImp="02" ValorUnitario="0.323" Importe="17442.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17442.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2790.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030600008" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M6 x 8" ObjetoImp="02" ValorUnitario="0.139" Importe="6950.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6950.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1112.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600020" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 20" ObjetoImp="02" ValorUnitario="0.162" Importe="20995.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20995.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3359.232"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020600160" Cantidad="9000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 1/2-13 x 1.1/2" ObjetoImp="02" ValorUnitario="1.596" Importe="14364.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14364.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2298.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010400200" Cantidad="10800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 3/8-16 x 2" ObjetoImp="02" ValorUnitario="1.179" Importe="12733.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12733.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2037.312"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030800060" Cantidad="16000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M8 x 60" ObjetoImp="02" ValorUnitario="0.856" Importe="13696.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13696.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2191.360"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030300260" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 5/16-18 x 2.1/2" ObjetoImp="02" ValorUnitario="0.969" Importe="13953.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13953.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2232.576"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030100160" Cantidad="81000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 10-24 x 1.1/2" ObjetoImp="02" ValorUnitario="0.331" Importe="26811.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26811.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4289.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2011600060" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 16 x 60" ObjetoImp="02" ValorUnitario="3.85" Importe="13860.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13860.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2217.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2011600030" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 16 x 30" ObjetoImp="02" ValorUnitario="2.538" Importe="13705.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13705.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2192.832"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030600025" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M6 x 25" ObjetoImp="02" ValorUnitario="0.224" Importe="9676.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9676.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1548.288"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600050" Cantidad="21600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 50" ObjetoImp="02" ValorUnitario="0.446" Importe="9633.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9633.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1541.376"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030200040" Cantidad="45000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 1/4-20 x 3/8" ObjetoImp="02" ValorUnitario="0.171" Importe="7695.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7695.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1231.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2031200090" Cantidad="2500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M12 x 90" ObjetoImp="02" ValorUnitario="3.542" Importe="8855.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8855.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1416.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030600055" Cantidad="17500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M6 x 55" ObjetoImp="02" ValorUnitario="0.517" Importe="9047.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9047.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1447.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030500030" Cantidad="24000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M5 x 30" ObjetoImp="02" ValorUnitario="0.177" Importe="4248.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4248.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="679.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020500016" Cantidad="67500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M5 x 16" ObjetoImp="02" ValorUnitario="0.116" Importe="7830.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7830.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1252.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020300040" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M3 x 40" ObjetoImp="02" ValorUnitario="0.247" Importe="12350.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12350.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1976.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020800010" Cantidad="12000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M8 x 10" ObjetoImp="02" ValorUnitario="0.28" Importe="3360.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3360.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="537.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020300035" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M3 x 35" ObjetoImp="02" ValorUnitario="0.224" Importe="11200.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1792.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100260" Cantidad="20000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 2.1/2" ObjetoImp="02" ValorUnitario="0.531" Importe="10620.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1699.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100200" Cantidad="25000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 2" ObjetoImp="02" ValorUnitario="0.38" Importe="9500.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1520.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2031200070" Cantidad="4000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M12 x 70" ObjetoImp="02" ValorUnitario="2.73" Importe="10920.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10920.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1747.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030600200" Cantidad="4000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 1/2-13 x 2" ObjetoImp="02" ValorUnitario="2.111" Importe="8444.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8444.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1351.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020800060" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M8 x 60" ObjetoImp="02" ValorUnitario="0.915" Importe="13176.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13176.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2108.160"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1011200760" Cantidad="270" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 1-1/4-7 x 7-1/2" ObjetoImp="02" ValorUnitario="81.846" Importe="22098.42">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22098.42" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3535.747"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1025100100" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/ PLANA NGO FINO - 10-32 x 1" ObjetoImp="02" ValorUnitario="0.218" Importe="10900.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10900.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1744.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020600200" Cantidad="6500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 1/2-13 x 2" ObjetoImp="02" ValorUnitario="1.956" Importe="12714.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12714.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2034.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010500120" Cantidad="14000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 5 x 120" ObjetoImp="02" ValorUnitario="1.896" Importe="26544.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26544.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4247.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010300020" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 3 x 20" ObjetoImp="02" ValorUnitario="0.132" Importe="6600.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1056.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1011000190" Cantidad="900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 1-8 x 1-3/4" ObjetoImp="02" ValorUnitario="16.143" Importe="14528.70">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14528.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2324.592"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010800390" Cantidad="1100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 5/8-11 x 3.3/4" ObjetoImp="02" ValorUnitario="6.521" Importe="7173.10">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7173.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1147.696"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030050060" Cantidad="100000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 8-32 x 1/2" ObjetoImp="02" ValorUnitario="0.125" Importe="12500.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2000.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010040060" Cantidad="110000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 6-32 x 1/2" ObjetoImp="02" ValorUnitario="0.129" Importe="14190.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14190.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2270.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010040090" Cantidad="60000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 6-32 x 3/4" ObjetoImp="02" ValorUnitario="0.146" Importe="8760.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8760.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1401.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010601200" Cantidad="550" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 1/2-13 x 12" ObjetoImp="02" ValorUnitario="26.459" Importe="14552.45">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14552.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2328.392"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010500030" Cantidad="19200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 5 x 30" ObjetoImp="02" ValorUnitario="0.252" Importe="4838.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4838.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="774.144"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010800200" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 5/8-11 x 2" ObjetoImp="02" ValorUnitario="3.94" Importe="14184.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14184.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2269.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1010601100" Cantidad="500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO NC - 1/2-13 x 11" ObjetoImp="02" ValorUnitario="24.194" Importe="12097.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12097.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1935.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100160" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 1.1/2" ObjetoImp="02" ValorUnitario="0.295" Importe="12744.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12744.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2039.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030300190" Cantidad="10000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 5/16-18 x 1.3/4" ObjetoImp="02" ValorUnitario="0.717" Importe="7170.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7170.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1147.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100090" Cantidad="75000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 3/4" ObjetoImp="02" ValorUnitario="0.169" Importe="12675.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12675.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2028.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020200040" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 1/4-20 x 3/8" ObjetoImp="02" ValorUnitario="0.191" Importe="9550.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9550.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1528.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010600150" Cantidad="6000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 6 x 150" ObjetoImp="02" ValorUnitario="2.8" Importe="16800.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2688.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020600300" Cantidad="4500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 1/2-13 x 3" ObjetoImp="02" ValorUnitario="2.985" Importe="13432.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13432.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2149.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100040" Cantidad="180000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 3/8" ObjetoImp="02" ValorUnitario="0.121" Importe="21780.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21780.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3484.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1015100260" Cantidad="15750" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO NGO FINO - 10-32 x 2.1/2" ObjetoImp="02" ValorUnitario="0.689" Importe="10851.75">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10851.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1736.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030200300" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 1/4-20 x 3" ObjetoImp="02" ValorUnitario="0.772" Importe="27792.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27792.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4446.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2030800020" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO - M8 x 20" ObjetoImp="02" ValorUnitario="0.369" Importe="1992.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1992.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="318.816"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010500150" Cantidad="6750" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 5 x 150" ObjetoImp="02" ValorUnitario="3.569" Importe="24090.75">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="24090.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3854.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020200260" Cantidad="22500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 1/4-20 x 2.1/2" ObjetoImp="02" ValorUnitario="0.67" Importe="15075.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15075.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2412.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1020100120" Cantidad="96000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA NGO NC - 10-24 x 1.1/4" ObjetoImp="02" ValorUnitario="0.237" Importe="22752.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22752.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3640.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1030050160" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON NGO NC - 8-32 x 1.1/2" ObjetoImp="02" ValorUnitario="0.333" Importe="16650.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2664.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017120040" Cantidad="14000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 12 x 40 NUEVO" ObjetoImp="02" ValorUnitario="1.458" Importe="20412.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20412.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3265.920"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010300010" Cantidad="120000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 3 x 10" ObjetoImp="02" ValorUnitario="0.1" Importe="12000.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1920.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600030" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 30" ObjetoImp="02" ValorUnitario="0.224" Importe="3225.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3225.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="516.096"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2037080020" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO M 8 x 20 NUEVO" ObjetoImp="02" ValorUnitario="0.369" Importe="47822.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47822.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7651.584"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2013000060" Cantidad="640" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 30 x 60" ObjetoImp="02" ValorUnitario="25.322" Importe="16206.08">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16206.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2592.973"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600020" Cantidad="76800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 20" ObjetoImp="02" ValorUnitario="0.162" Importe="12441.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12441.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1990.656"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2020600040" Cantidad="39600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/PLANA MM NGO - M6 x 40" ObjetoImp="02" ValorUnitario="0.323" Importe="12790.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12790.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2046.528"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2037080030" Cantidad="12000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO M 8 x 30 NUEVO" ObjetoImp="02" ValorUnitario="0.45" Importe="5400.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5400.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="864.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017160060" Cantidad="5600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 16 x 60 NUEVO" ObjetoImp="02" ValorUnitario="3.85" Importe="21560.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21560.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3449.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2037060012" Cantidad="162000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO M 6 x 12 NUEVO" ObjetoImp="02" ValorUnitario="0.141" Importe="22842.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22842.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3654.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2037050012" Cantidad="162000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/BOTON MM NGO M 5 x 12 NUEVO" ObjetoImp="02" ValorUnitario="0.116" Importe="18792.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18792.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3006.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2011600160" Cantidad="3200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 16 x 160" ObjetoImp="02" ValorUnitario="9.101" Importe="29123.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29123.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4659.712"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017160100" Cantidad="5000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 16 x 100 NUEVO" ObjetoImp="02" ValorUnitario="5.776" Importe="28880.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="28880.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4620.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017120120" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 12 x 120 NUEVO" ObjetoImp="02" ValorUnitario="3.689" Importe="19920.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19920.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3187.296"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010600130" Cantidad="7200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 6 x 130" ObjetoImp="02" ValorUnitario="2.526" Importe="18187.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18187.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2909.952"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017050060" Cantidad="32400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 5 x 60 NUEVO" ObjetoImp="02" ValorUnitario="0.463" Importe="15001.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15001.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2400.192"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2010400070" Cantidad="20000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO - M 4 x 70" ObjetoImp="02" ValorUnitario="0.988" Importe="19760.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19760.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3161.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2017100140" Cantidad="10000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR SOCKET C/CILINDRO MM NGO M 10 x 140 NUEVO" ObjetoImp="02" ValorUnitario="3.26" Importe="32600.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5216.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3807  3002812"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="174902.60">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="1093141.25" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="174902.60" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

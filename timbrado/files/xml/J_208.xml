@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="580664.40" Total="673570.70" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-06-01T13:50:41" Serie="J" Folio="208" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1590200260" Cantidad="48000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR AUTOROSCANTE PTA F NGRO 1/4-20 X 2.1/2" ObjetoImp="02" ValorUnitario="0.399" Importe="19152.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19152.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3064.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5120200090" Cantidad="180000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR CAB PLANA PH GALV 1/4-20 X 3/4" ObjetoImp="02" ValorUnitario="0.138" Importe="24840.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="24840.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3974.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5120100100" Cantidad="133000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR CAB PLANA PH GALV 10-24 X 1" ObjetoImp="02" ValorUnitario="0.084" Importe="11172.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11172.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1787.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140100060" Cantidad="1764000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 10-24 X 1/2" ObjetoImp="02" ValorUnitario="0.057" Importe="100548.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="100548.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16087.680"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140200100" Cantidad="162000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 1/4-20 X 1" ObjetoImp="02" ValorUnitario="0.163" Importe="26406.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26406.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4224.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140200300" Cantidad="18000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 1/4-20 X 3" ObjetoImp="02" ValorUnitario="0.354" Importe="6372.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6372.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1019.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600080090" Cantidad="80000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 8 X 3/4" ObjetoImp="02" ValorUnitario="0.132" Importe="10560.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10560.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1689.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600100160" Cantidad="5000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 10 x 1-1/2" ObjetoImp="02" ValorUnitario="0.255" Importe="1275.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1275.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="204.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600140100" Cantidad="24000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 14 x 1" ObjetoImp="02" ValorUnitario="0.387" Importe="9288.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9288.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1486.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600140160" Cantidad="226000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 14 x 1-1/2" ObjetoImp="02" ValorUnitario="0.495" Importe="111870.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="111870.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17899.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3630080100" Cantidad="12600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA FIJAD PHIL BROCA INOX 410 - # 8 x 1" ObjetoImp="02" ValorUnitario="0.136" Importe="1713.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1713.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="274.176"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1590200300" Cantidad="19200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR AUTOROSCANTE PTA F NGRO 1/4-20 X 3" ObjetoImp="02" ValorUnitario="0.462" Importe="8870.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8870.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1419.264"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="6360600000" Cantidad="201600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA MM REMACHABLE T. EUROPEO TROP. M6-1.00" ObjetoImp="02" ValorUnitario="0.205" Importe="41328.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41328.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6612.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140100300" Cantidad="273600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 10-24 X 3" ObjetoImp="02" ValorUnitario="0.193" Importe="52804.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="52804.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8448.768"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H19010" Cantidad="22200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DADO MAGNETICO GALAXY - 3/8 X 1-3/4" ObjetoImp="02" ValorUnitario="3.245" Importe="72039.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="72039.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11526.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H19011" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DADO MAGNETICO GALAXY - 7/16 X 1-3/4" ObjetoImp="02" ValorUnitario="3.648" Importe="10944.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10944.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1751.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H19012" Cantidad="5100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DADO MAGNETICO GALAXY - 3/8 X 2-9/16" ObjetoImp="02" ValorUnitario="4.256" Importe="21705.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21705.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3472.896"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H18011" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNTA P/DESARMADOR PHILLIPS - #1 x 2&quot;" ObjetoImp="02" ValorUnitario="1.67" Importe="5010.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5010.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="801.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H18018" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNTA PARA DESARMADOR CUADRO - #1 x 2&quot;" ObjetoImp="02" ValorUnitario="1.67" Importe="5010.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5010.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="801.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H18019" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNTA PARA DESARMADOR CUADRO - #2 x 2&quot;" ObjetoImp="02" ValorUnitario="1.67" Importe="5010.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5010.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="801.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="27111700" NoIdentificacion="H18020" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNTA PARA DESARMADOR CUADRO - #3 x 2&quot;" ObjetoImp="02" ValorUnitario="1.67" Importe="5010.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5010.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="801.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140100060" Cantidad="504000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 10-24 X 1/2" ObjetoImp="02" ValorUnitario="0.059" Importe="29736.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29736.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4757.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="92906.30">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="580664.40" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92906.30" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

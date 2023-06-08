@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PUE" TipoDeComprobante="I" SubTotal="1.00" Total="1.16" Moneda="MXN" Certificado="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" NoCertificado="30001000000400002417" FormaPago="99" Fecha="2023-01-22T22:44:31" Serie="T" Folio="1193" Version="4.0">
+ <cfdi:Emisor Rfc="EKU9003173C9" Nombre="ESCUELA KEMPER URGATE" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="606" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420200000" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/4-20 X 1MT" ObjetoImp="02" ValorUnitario="1" Importe="1.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.160"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  11  3241  1000004"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="0.16">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="1.00" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.16" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

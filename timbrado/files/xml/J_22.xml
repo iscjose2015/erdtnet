@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="889329.56" Total="1031622.29" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-04-17T16:04:13" Serie="J" Folio="22" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420300000" Cantidad="3250" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 5/16-18" ObjetoImp="02" ValorUnitario="5.472" Importe="17784.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17784.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2845.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420400000" Cantidad="6700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 3/8-16" ObjetoImp="02" ValorUnitario="7.976" Importe="53439.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="53439.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8550.272"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420800000" Cantidad="800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 5/8-11" ObjetoImp="02" ValorUnitario="22.829" Importe="18263.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18263.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2922.112"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420900000" Cantidad="525" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 3/4-10" ObjetoImp="02" ValorUnitario="33.562" Importe="17620.05">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17620.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2819.208"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420950000" Cantidad="395" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 7/8-9" ObjetoImp="02" ValorUnitario="46.968" Importe="18552.36">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18552.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2968.378"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5421100000" Cantidad="225" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 1.1/8-7" ObjetoImp="02" ValorUnitario="82.437" Importe="18548.33">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18548.33" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2967.733"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5421600000" Cantidad="724" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 1.1/2-6" ObjetoImp="02" ValorUnitario="149.82" Importe="108469.68">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="108469.68" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17355.149"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5422000000" Cantidad="71" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 2-4.5" ObjetoImp="02" ValorUnitario="270.774" Importe="19224.95">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19224.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3075.992"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420303000" Cantidad="2275" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 3 METROS 5/16-18" ObjetoImp="02" ValorUnitario="16.414" Importe="37341.85">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="37341.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5974.696"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420403000" Cantidad="5660" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 3 METROS 3/8-16" ObjetoImp="02" ValorUnitario="23.926" Importe="135421.16">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="135421.16" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21667.386"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420300000" Cantidad="3250" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 5/16-18" ObjetoImp="02" ValorUnitario="5.472" Importe="17784.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17784.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2845.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420400000" Cantidad="6700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 3/8-16" ObjetoImp="02" ValorUnitario="7.976" Importe="53439.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="53439.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8550.272"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420800000" Cantidad="800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 5/8-11" ObjetoImp="02" ValorUnitario="22.829" Importe="18263.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18263.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2922.112"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420900000" Cantidad="525" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 3/4-10" ObjetoImp="02" ValorUnitario="33.562" Importe="17620.05">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17620.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2819.208"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420950000" Cantidad="395" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 7/8-9" ObjetoImp="02" ValorUnitario="46.968" Importe="18552.36">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18552.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2968.378"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5421100000" Cantidad="225" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 1.1/8-7" ObjetoImp="02" ValorUnitario="82.437" Importe="18548.33">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18548.33" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2967.733"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5421600000" Cantidad="724" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 1.1/2-6" ObjetoImp="02" ValorUnitario="149.82" Importe="108469.68">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="108469.68" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17355.149"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5422000000" Cantidad="71" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 2-4.5" ObjetoImp="02" ValorUnitario="270.774" Importe="19224.95">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19224.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3075.992"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420303000" Cantidad="2275" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 3 METROS 5/16-18" ObjetoImp="02" ValorUnitario="16.414" Importe="37341.85">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="37341.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5974.696"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420403000" Cantidad="5660" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 3 METROS 3/8-16" ObjetoImp="02" ValorUnitario="23.926" Importe="135421.16">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="135421.16" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21667.386"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010837"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="142292.73">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="889329.56" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="142292.73" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="44490" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="1060801.35" Total="1230529.57" Moneda="MXN" Certificado="" NoCertificado="30001000000400002434" FormaPago="99" Fecha="2022-01-28T17:55:57" Serie="T" Folio="1147" Version="3.3">
+ <cfdi:Emisor Rfc="EKU9003173C9" Nombre="Empresa Demo de Timbrado S.A de C.V." RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="ETR090424E82" Nombre="ELREYTOR TRADING SA DE CV" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420900000" Cantidad="885" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 1 METRO NC 3/4-10" ValorUnitario="60.996" Importe="53981.46">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="53981.46" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8637.034"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="5420603000" Cantidad="1250" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSC GR-2 GALV 3 METROS 1/2-13" ValorUnitario="78.024" Importe="97530.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="97530.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15604.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420200000" Cantidad="5800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/4-20 X 1MT" ValorUnitario="8.973" Importe="52043.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="52043.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8326.944"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420400000" Cantidad="2150" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 3/8-16 X 1MT" ValorUnitario="19.218" Importe="41318.70">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41318.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6610.992"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420500000" Cantidad="860" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 7/16-14 X 1MT" ValorUnitario="25.601" Importe="22016.86">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22016.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3522.698"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420600000" Cantidad="3720" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/2-13 X 1MT" ValorUnitario="33.935" Importe="126238.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="126238.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20198.112"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420800000" Cantidad="1500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 5/8-11 X 1MT" ValorUnitario="53.98" Importe="80970.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="80970.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12955.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420900000" Cantidad="2500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 3/4-10 X 1MT" ValorUnitario="79.914" Importe="199785.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="199785.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31965.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420950000" Cantidad="410" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 7/8-9 X 1MT" ValorUnitario="109.779" Importe="45009.39">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="45009.39" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7201.502"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1421600000" Cantidad="486" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1.1/2-6 X 1MT" ValorUnitario="357.904" Importe="173941.34">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="173941.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27830.614"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="2421600000" Cantidad="3000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA ROSCAD CL 8.8 MM NGA - M16-2.00 x 1 Mt." ValorUnitario="55.989" Importe="167967.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="167967.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26874.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="21  16  1774  1007064"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="169728.22">
+  <cfdi:Traslados>
+   <cfdi:Traslado TipoFactor="Tasa" TasaOCuota="0.160000" Importe="169728.22" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

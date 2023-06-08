@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="639785.44" Total="742151.11" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-04T15:10:53" Serie="J" Folio="50" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5630100090" Cantidad="532500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA FIJAD P/BROCA GALV 10 X 3/4" ObjetoImp="02" ValorUnitario="0.081" Importe="43132.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="43132.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6901.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640100100" Cantidad="360000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 10 X 1" ObjetoImp="02" ValorUnitario="0.089" Importe="32040.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32040.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5126.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140060" Cantidad="576000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 1/2" ObjetoImp="02" ValorUnitario="0.111" Importe="63936.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="63936.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10229.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140100" Cantidad="216000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 1" ObjetoImp="02" ValorUnitario="0.162" Importe="34992.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="34992.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5598.720"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140160" Cantidad="79200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 1-1/2" ObjetoImp="02" ValorUnitario="0.213" Importe="16869.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16869.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2699.136"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140500" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 5" ObjetoImp="02" ValorUnitario="0.571" Importe="24667.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="24667.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3946.752"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5680080120" Cantidad="1080000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA P/FIBRO-CEMENTO (DUROK) 8 X 1.1/4" ObjetoImp="02" ValorUnitario="0.101" Importe="109080.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="109080.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17452.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5680080160" Cantidad="375000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA P/FIBRO-CEMENTO (DUROK) 8 X 1.1/2" ObjetoImp="02" ValorUnitario="0.116" Importe="43500.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="43500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6960.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5631100150" Cantidad="180000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA C/PLANA PH BROCA C/ALAS GALV PLUS 10 X 1-7/16" ObjetoImp="02" ValorUnitario="0.173" Importe="31140.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31140.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4982.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231108056" Cantidad="1210" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 5/8 X 5-1/2" ObjetoImp="02" ValorUnitario="8.458" Importe="10234.18">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10234.18" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1637.469"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231109056" Cantidad="1510" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 3/4 X 5-1/2" ObjetoImp="02" ValorUnitario="12.687" Importe="19157.37">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19157.37" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3065.179"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231110046" Cantidad="1050" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 X 4-1/2" ObjetoImp="02" ValorUnitario="18.084" Importe="18988.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18988.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3038.112"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231110056" Cantidad="1895" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 X 5-1/2" ObjetoImp="02" ValorUnitario="21.239" Importe="40247.91">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="40247.91" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6439.666"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231110060" Cantidad="1470" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 X 6" ObjetoImp="02" ValorUnitario="22.723" Importe="33402.81">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="33402.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5344.450"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231110066" Cantidad="1100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 X 6-1/2" ObjetoImp="02" ValorUnitario="24.364" Importe="26800.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26800.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4288.064"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231111146" Cantidad="1090" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 1/8 X 4-1/2" ObjetoImp="02" ValorUnitario="24.144" Importe="26316.96">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26316.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4210.714"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231111156" Cantidad="1090" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 1/8 X 5-1/2" ObjetoImp="02" ValorUnitario="28.309" Importe="30856.81">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="30856.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4937.090"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1231111166" Cantidad="1060" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO AGRICOLA 1 1/8 X 6-1/2" ObjetoImp="02" ValorUnitario="32.475" Importe="34423.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="34423.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5507.760"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3000739"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="102365.67">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="639785.44" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="102365.67" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

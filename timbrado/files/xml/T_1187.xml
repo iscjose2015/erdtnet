@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="44490" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="302248.85" Total="350608.67" Moneda="MXN" Certificado="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" NoCertificado="00001000000503367563" FormaPago="99" Fecha="2022-08-30T01:25:43" Serie="T" Folio="1187" Version="3.3">
+ <cfdi:Emisor Rfc="FIN180514K70" Nombre="FIJACIONES INTERNACIONALES SA DE CV" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT S.A DE C.V." UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420400000" Cantidad="1900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 3/8-16 X 1MT" ValorUnitario="16.508" Importe="31365.200">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31365.200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5018.432"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420600000" Cantidad="1020" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 1/2-13 X 1MT" ValorUnitario="29.049" Importe="29629.980">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="29629.980" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4740.797"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1420800000" Cantidad="750" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA G-5 ROSC PAVONADA 5/8-11 X 1MT" ValorUnitario="46.209" Importe="34656.750">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="34656.750" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5545.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1431000000" Cantidad="80" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 1-8" ValorUnitario="495.439" Importe="39635.120">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="39635.120" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6341.619"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1431000000" Cantidad="86" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 12 PIES 1-8" ValorUnitario="495.439" Importe="42607.754">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="42607.754" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6817.241"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1461200000" Cantidad="150" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VARILLA B7-LARGO 1 MT 1.1/4-8" ValorUnitario="829.027" Importe="124354.050">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="124354.050" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19896.648"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="22  16  1774  2000536"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="48359.82">
+  <cfdi:Traslados>
+   <cfdi:Traslado TipoFactor="Tasa" TasaOCuota="0.160000" Importe="48359.82" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

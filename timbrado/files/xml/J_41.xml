@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="798161.40" Total="925867.22" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-03T10:56:13" Serie="J" Folio="41" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1475000010" Cantidad="18000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA ESTRUCTURAL F-436 -GIC 1-1/8 NUEVO" ObjetoImp="02" ValorUnitario="1.554" Importe="27972.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27972.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4475.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1475000020" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA ESTRUCTURAL F-436 -GIC 1-1/4 NUEVO" ObjetoImp="02" ValorUnitario="1.935" Importe="27864.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4458.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1475000060" Cantidad="9000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA ESTRUCTURAL F-436 -GIC 1-1/2 NUEVO" ObjetoImp="02" ValorUnitario="2.841" Importe="25569.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="25569.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4091.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1470800000" Cantidad="806400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA PLANA F436 NGRA 5/8" ObjetoImp="02" ValorUnitario="0.474" Importe="382233.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="382233.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="61157.376"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1470900000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA PLANA F436 NGRA 3/4" ObjetoImp="02" ValorUnitario="0.563" Importe="48643.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="48643.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7782.912"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1471200000" Cantidad="57600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA PLANA F436 NGRA 1.1/4" ObjetoImp="02" ValorUnitario="1.814" Importe="104486.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="104486.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16717.824"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2400400000" Cantidad="768000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M4" ObjetoImp="02" ValorUnitario="0.008" Importe="6144.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6144.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="983.040"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2400500000" Cantidad="864000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M5" ObjetoImp="02" ValorUnitario="0.014" Importe="12096.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12096.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1935.360"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2400800000" Cantidad="648000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M8" ObjetoImp="02" ValorUnitario="0.048" Importe="31104.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31104.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4976.640"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2401600000" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M16" ObjetoImp="02" ValorUnitario="0.28" Importe="10080.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10080.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1612.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2401800000" Cantidad="25200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M18" ObjetoImp="02" ValorUnitario="0.363" Importe="9147.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9147.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1463.616"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2402000000" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M20" ObjetoImp="02" ValorUnitario="0.426" Importe="18403.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18403.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2944.512"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2402400000" Cantidad="28800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M24" ObjetoImp="02" ValorUnitario="0.802" Importe="23097.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="23097.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3695.616"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2403600000" Cantidad="4500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M36 NUEVO" ObjetoImp="02" ValorUnitario="2.288" Importe="10296.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10296.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1647.360"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2400800000" Cantidad="192000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M8" ObjetoImp="02" ValorUnitario="0.061" Importe="11712.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11712.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1873.920"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2402000000" Cantidad="31200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M20" ObjetoImp="02" ValorUnitario="0.523" Importe="16317.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16317.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2610.816"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2402400000" Cantidad="33600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PLANA MM NEGRA - M24" ObjetoImp="02" ValorUnitario="0.982" Importe="32995.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32995.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5279.232"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002615"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="127705.82">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="798161.40" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="127705.82" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

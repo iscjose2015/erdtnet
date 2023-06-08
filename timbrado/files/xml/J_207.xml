@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="428725.60" Total="497321.70" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-06-01T13:48:30" Serie="J" Folio="207" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5360300000" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. EUROPEO TROP. 5/16-18" ObjetoImp="02" ValorUnitario="0.442" Importe="19094.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19094.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3055.104"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5360400000" Cantidad="72000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. EUROPEO TROP. 3/8-16" ObjetoImp="02" ValorUnitario="0.742" Importe="53424.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="53424.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8547.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140040060" Cantidad="361000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 5/32-32 X 1/2" ObjetoImp="02" ValorUnitario="0.045" Importe="16245.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16245.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2599.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5120100060" Cantidad="180000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR CAB PLANA PH GALV 10-24 X 1/2" ObjetoImp="02" ValorUnitario="0.06" Importe="10800.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1728.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640030200" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 5/16 X 2" ObjetoImp="02" ValorUnitario="0.532" Importe="57456.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="57456.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9192.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600100160" Cantidad="10000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 10 x 1-1/2" ObjetoImp="02" ValorUnitario="0.267" Importe="2670.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="2670.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="427.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600140100" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 14 x 1" ObjetoImp="02" ValorUnitario="0.405" Importe="69984.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="69984.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11197.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600140160" Cantidad="20000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 14 x 1-1/2" ObjetoImp="02" ValorUnitario="0.518" Importe="10360.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10360.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1657.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3600140300" Cantidad="1200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX PUNTA BROCA INOX 410 - # 14 X 3" ObjetoImp="02" ValorUnitario="0.976" Importe="1171.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1171.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="187.392"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="3630080100" Cantidad="6300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA FIJAD PHIL BROCA INOX 410 - # 8 x 1" ObjetoImp="02" ValorUnitario="0.143" Importe="900.90">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="900.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="144.144"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="6360600000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA MM REMACHABLE T. EUROPEO TROP. M6-1.00" ObjetoImp="02" ValorUnitario="0.234" Importe="20217.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20217.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3234.816"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5140100060" Cantidad="252000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO CAB GOTA COMBI GALV 10-24 X 1/2" ObjetoImp="02" ValorUnitario="0.057" Importe="14364.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14364.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2298.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1590200260" Cantidad="112500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR AUTOROSCANTE PTA F NGRO 1/4-20 X 2.1/2" ObjetoImp="02" ValorUnitario="0.418" Importe="47025.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47025.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7524.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1590300200" Cantidad="89700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR AUTOROSCANTE PTA F NGRO 5/16 X 2" ObjetoImp="02" ValorUnitario="0.535" Importe="47989.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47989.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7678.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1590300260" Cantidad="88000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR AUTOROSCANTE PTA F NGRO 5/16 X 2-1/2" ObjetoImp="02" ValorUnitario="0.648" Importe="57024.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="57024.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9123.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001110"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="68596.10">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="428725.60" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="68596.10" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

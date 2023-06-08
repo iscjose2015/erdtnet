@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="626929.19" Total="727237.86" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-06-01T13:38:37" Serie="J" Folio="205" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5350200000" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. AMERICANO TROP. 1/4-20" ObjetoImp="02" ValorUnitario="0.275" Importe="47520.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7603.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5350300000" Cantidad="259200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. AMERICANO TROP. 5/16-18" ObjetoImp="02" ValorUnitario="0.754" Importe="195436.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="195436.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31269.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5360100000" Cantidad="360000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. EUROPEO TROP. 10-24" ObjetoImp="02" ValorUnitario="0.232" Importe="83520.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="83520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13363.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5360200000" Cantidad="288000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. EUROPEO TROP. 1/4-20" ObjetoImp="02" ValorUnitario="0.274" Importe="78912.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="78912.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12625.920"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5360300000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA REMACHABLE T. EUROPEO TROP. 5/16-18" ObjetoImp="02" ValorUnitario="0.442" Importe="38188.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="38188.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6110.208"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="6360500000" Cantidad="270000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA MM REMACHABLE T. EUROPEO TROP. M5-0.80" ObjetoImp="02" ValorUnitario="0.223" Importe="60210.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="60210.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9633.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200500" Cantidad="12600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 5" ObjetoImp="02" ValorUnitario="0.52" Importe="6552.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6552.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1048.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200600" Cantidad="10800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 6" ObjetoImp="02" ValorUnitario="0.613" Importe="6620.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6620.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1059.264"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100300600" Cantidad="24300" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/16-18 X 6" ObjetoImp="02" ValorUnitario="1.01" Importe="24543.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="24543.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3926.880"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100600560" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/2-13 X 5.1/2" ObjetoImp="02" ValorUnitario="2.568" Importe="13867.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13867.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2218.752"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800700" Cantidad="2520" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 7" ObjetoImp="02" ValorUnitario="5.19" Importe="13078.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13078.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2092.608"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200400" Cantidad="79200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 4" ObjetoImp="02" ValorUnitario="0.465" Importe="36828.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="36828.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5892.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100200500" Cantidad="12600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 1/4-20 X 5" ObjetoImp="02" ValorUnitario="0.563" Importe="7093.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7093.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1135.008"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5100800700" Cantidad="2590" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR HEX MAQUINA GALV 5/8-11 X 7" ObjetoImp="02" ValorUnitario="5.621" Importe="14558.39">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14558.39" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2329.342"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  3874  3001046"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="100308.67">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="626929.19" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="100308.67" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

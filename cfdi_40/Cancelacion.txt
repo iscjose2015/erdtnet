@@ -1,0 +1,2 @@
+https://timbracfdi33.mx:1443/Timbrado.asmx?op=CancelaCFDI40
+https://timbracfdi33.mx:1443/Timbrado.asmx?op=CancelaCFDI

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/Pagos http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos10.xsd" LugarExpedicion="44270" MetodoPago="" TipoDeComprobante="P" SubTotal="0" Total="0" Moneda="XXX" Certificado="" NoCertificado="30001000000400002434" FormaPago="" Fecha="2022-06-01T16:54:17" Serie="P" Folio="5" Version="3.3">
+ <cfdi:Emisor Rfc="EKU9003173C9" Nombre="Empresa Demo de Timbrado S.A de C.V." RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO S.A. DE C.V." UsoCFDI="P01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="84111506" Cantidad="1" ClaveUnidad="ACT" Descripcion="Pago" ValorUnitario="0" Importe="0"/>
+ </cfdi:Conceptos>
+ <pago10:Pagos Version="1.0">
+  <pago10:Pago FechaPago="2017-08-22T14:37:50" FormaDePagoP="01" MonedaP="MXN" Monto="1" RfcEmisorCtaOrd="BNM840515VB1" RfcEmisorCtaBen="BNM840515VB1" CtaBeneficiario="1234567890">
+   <pago10:DoctoRelacionado IdDocumento="A6F92B41-7FE7-49A5-AA9F-D9AF01625C8D" Serie="A" Folio="59" MonedaDR="MXN" MetodoDePagoDR="PPD" NumParcialidad="1" ImpSaldoAnt="580.00" ImpPagado="380.00" ImpSaldoInsoluto="200.00"/>
+   <pago10:DoctoRelacionado IdDocumento="A6F92B41-7FE7-49A5-AA9F-D9AF01625C8D" Serie="A" Folio="59" MonedaDR="MXN" MetodoDePagoDR="PPD" NumParcialidad="1" ImpSaldoAnt="580.00" ImpPagado="380.00" ImpSaldoInsoluto="200.00"/>
+   <pago10:DoctoRelacionado IdDocumento="A6F92B41-7FE7-49A5-AA9F-D9AF01625C8D" Serie="A" Folio="59" MonedaDR="MXN" MetodoDePagoDR="PPD" NumParcialidad="1" ImpSaldoAnt="580.00" ImpPagado="380.00" ImpSaldoInsoluto="200.00"/>
+  </pago10:Pago>
+ </pago10:Pagos>
+</cfdi:Comprobante>

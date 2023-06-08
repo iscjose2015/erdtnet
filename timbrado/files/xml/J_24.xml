@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="546566.16" Total="634016.75" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-04-20T09:18:41" Serie="J" Folio="24" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="FDE190301AF4" Nombre="FASTENER DEPOT" DomicilioFiscalReceptor="22120" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1250300000" Cantidad="216000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 NEGRA 5/16-18" ObjetoImp="02" ValorUnitario="0.095" Importe="20520.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="20520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3283.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1250900000" Cantidad="18000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 NEGRA 3/4-10" ObjetoImp="02" ValorUnitario="1.066" Importe="19188.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19188.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3070.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1251000000" Cantidad="7200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 NEGRA 1-8" ObjetoImp="02" ValorUnitario="2.54" Importe="18288.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18288.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2926.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1251200000" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 NEGRA 1.1/4-7" ObjetoImp="02" ValorUnitario="4.891" Importe="17607.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17607.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2817.216"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5250200000" Cantidad="720000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 1/4-20" ObjetoImp="02" ValorUnitario="0.069" Importe="49680.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="49680.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7948.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5250400000" Cantidad="288000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 3/8-16" ObjetoImp="02" ValorUnitario="0.144" Importe="41472.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41472.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6635.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5250600000" Cantidad="324000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 1/2-13" ObjetoImp="02" ValorUnitario="0.342" Importe="110808.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="110808.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17729.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5250800000" Cantidad="57600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 5/8-11" ObjetoImp="02" ValorUnitario="0.687" Importe="39571.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="39571.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6331.392"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5250900000" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 3/4-10" ObjetoImp="02" ValorUnitario="1.132" Importe="40752.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="40752.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6520.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5251000000" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-2 GALV 1-8" ObjetoImp="02" ValorUnitario="2.697" Importe="38836.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="38836.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6213.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5300300000" Cantidad="158400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA INS NYLON NC GALV 5/16-18" ObjetoImp="02" ValorUnitario="0.144" Importe="22809.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22809.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3649.536"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5300400000" Cantidad="100800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA INS NYLON NC GALV 3/8-16" ObjetoImp="02" ValorUnitario="0.228" Importe="22982.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22982.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3677.184"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5300800000" Cantidad="21600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA INS NYLON NC GALV 5/8-11" ObjetoImp="02" ValorUnitario="1.112" Importe="24019.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="24019.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3843.072"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5300950000" Cantidad="2800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA INS NYLON NC GALV 7/8-9" ObjetoImp="02" ValorUnitario="2.475" Importe="6930.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6930.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1108.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5280400000" Cantidad="48960" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA FLANGE NC GALV 3/8-16" ObjetoImp="02" ValorUnitario="0.221" Importe="10820.16">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10820.16" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1731.226"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="6280800000" Cantidad="38400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA MM FLANGE GALV M8-1.25" ObjetoImp="02" ValorUnitario="0.184" Importe="7065.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7065.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1130.496"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1280900000" Cantidad="10000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-8 NC NEGRA 3/4-10" ObjetoImp="02" ValorUnitario="1.448" Importe="14480.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14480.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2316.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1281200000" Cantidad="1800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-8 NC NEGRA 1-1/4-7" ObjetoImp="02" ValorUnitario="6.937" Importe="12486.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12486.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1997.856"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="1281000000" Cantidad="8200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA HEX GR-8 NC NEGRA 1&quot;-8" ObjetoImp="02" ValorUnitario="3.445" Importe="28249.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="28249.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4519.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  11  3241  3000445"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="87450.59">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="546566.16" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="87450.59" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

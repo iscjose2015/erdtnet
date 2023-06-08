@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="975599.21" Total="1131695.08" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-08T11:15:07" Serie="J" Folio="82" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050030060" Cantidad="30000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 5-40 x 1/2" ObjetoImp="02" ValorUnitario="0.133" Importe="3990.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3990.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="638.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050050003" Cantidad="56000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 8-32 x 1/8" ObjetoImp="02" ValorUnitario="0.112" Importe="6272.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6272.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1003.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050200060" Cantidad="518400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 1/4-20 x 1/2" ObjetoImp="02" ValorUnitario="0.109" Importe="56505.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="56505.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9040.896"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050200090" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 1/4-20 x 3/4" ObjetoImp="02" ValorUnitario="0.183" Importe="31622.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31622.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5059.584"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050050010" Cantidad="168000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 8-32 x 3/16" ObjetoImp="02" ValorUnitario="0.112" Importe="18816.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18816.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3010.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050300030" Cantidad="172800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 5/16-18 x 5/16" ObjetoImp="02" ValorUnitario="0.098" Importe="16934.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16934.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2709.504"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050400060" Cantidad="230400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 3/8-16 x 1/2" ObjetoImp="02" ValorUnitario="0.216" Importe="49766.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="49766.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7962.624"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050500100" Cantidad="14000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 7/16-14 x 1" ObjetoImp="02" ValorUnitario="1.015" Importe="14210.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14210.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2273.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1050400120" Cantidad="28000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NC - 3/8-16 x 1-1/4" ObjetoImp="02" ValorUnitario="0.681" Importe="19068.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19068.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3050.880"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1055100060" Cantidad="20700" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NF - 10-32 x 1/2" ObjetoImp="02" ValorUnitario="0.121" Importe="2504.70">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="2504.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="400.752"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1055200020" Cantidad="28000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NF - 1/4-28 x 1/4" ObjetoImp="02" ValorUnitario="0.096" Importe="2688.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="2688.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="430.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1055200060" Cantidad="30000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NF - 1/4-28 x 1/2" ObjetoImp="02" ValorUnitario="0.128" Importe="3840.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3840.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="614.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1055400060" Cantidad="32000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NF - 3/8-24 x 1/2" ObjetoImp="02" ValorUnitario="0.275" Importe="8800.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1408.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1055400090" Cantidad="16000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPRES SOCKET PTA COPA NGO NF - 3/8-24 x 3/4" ObjetoImp="02" ValorUnitario="0.508" Importe="8128.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8128.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1300.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050300008" Cantidad="84000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M3 x 8" ObjetoImp="02" ValorUnitario="0.046" Importe="3864.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="618.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050300016" Cantidad="40000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M3 x 16" ObjetoImp="02" ValorUnitario="0.103" Importe="4120.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4120.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="659.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050400020" Cantidad="40000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M4 x 20" ObjetoImp="02" ValorUnitario="0.13" Importe="5200.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="832.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050500006" Cantidad="120000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M5 x 6" ObjetoImp="02" ValorUnitario="0.046" Importe="5520.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="883.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050500008" Cantidad="30000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M5 x 8" ObjetoImp="02" ValorUnitario="0.06" Importe="1800.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="288.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050500010" Cantidad="60000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M5 x 10" ObjetoImp="02" ValorUnitario="0.069" Importe="4140.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4140.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="662.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050500012" Cantidad="25000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M5 x 12" ObjetoImp="02" ValorUnitario="0.078" Importe="1950.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="1950.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="312.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050500016" Cantidad="57600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M5 x 16" ObjetoImp="02" ValorUnitario="0.13" Importe="7488.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7488.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1198.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600006" Cantidad="84000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 6" ObjetoImp="02" ValorUnitario="0.059" Importe="4956.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="4956.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="792.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600008" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 8" ObjetoImp="02" ValorUnitario="0.071" Importe="7668.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7668.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1226.880"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600010" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 10" ObjetoImp="02" ValorUnitario="0.085" Importe="11016.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="11016.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1762.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600020" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 20" ObjetoImp="02" ValorUnitario="0.202" Importe="7272.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7272.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1163.520"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600025" Cantidad="32400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 25" ObjetoImp="02" ValorUnitario="0.26" Importe="8424.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8424.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1347.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600030" Cantidad="21600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 30" ObjetoImp="02" ValorUnitario="0.326" Importe="7041.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7041.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1126.656"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600035" Cantidad="33600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 35" ObjetoImp="02" ValorUnitario="0.391" Importe="13137.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13137.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2102.016"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050600040" Cantidad="22400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M6 x 40" ObjetoImp="02" ValorUnitario="0.447" Importe="10012.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="10012.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1602.048"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050800008" Cantidad="43200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M8 x 8" ObjetoImp="02" ValorUnitario="0.088" Importe="3801.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3801.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="608.256"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2050800050" Cantidad="8000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M8 x 50" ObjetoImp="02" ValorUnitario="0.861" Importe="6888.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6888.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1102.080"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051000016" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M10 x 16" ObjetoImp="02" ValorUnitario="0.276" Importe="3974.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3974.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="635.904"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051000020" Cantidad="19200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M10 x 20" ObjetoImp="02" ValorUnitario="0.36" Importe="6912.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6912.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1105.920"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051200016" Cantidad="9600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M12 x 16" ObjetoImp="02" ValorUnitario="0.379" Importe="3638.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3638.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="582.144"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051200050" Cantidad="4000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M12 x 50" ObjetoImp="02" ValorUnitario="1.855" Importe="7420.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7420.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1187.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051200060" Cantidad="2800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M12 x 60" ObjetoImp="02" ValorUnitario="3.314" Importe="9279.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9279.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1484.672"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051400050" Cantidad="1600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M14 x 50" ObjetoImp="02" ValorUnitario="2.239" Importe="3582.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3582.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="573.184"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051600020" Cantidad="3600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M16 x 20" ObjetoImp="02" ValorUnitario="1.025" Importe="3690.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3690.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="590.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="2051600050" Cantidad="2500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OPR SOCKET PTA COPA MM NGO - M16 x 50" ObjetoImp="02" ValorUnitario="2.814" Importe="7035.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7035.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1125.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161600" NoIdentificacion="1212090410" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO NELSON 3/4 X 4-3/16" ObjetoImp="02" ValorUnitario="5.698" Importe="82051.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="82051.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13128.192"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5330200000" Cantidad="408800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA BELLOTA NIQUELADA 1/4-20" ObjetoImp="02" ValorUnitario="0.297" Importe="121413.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="121413.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19426.176"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5330400000" Cantidad="45600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA BELLOTA NIQUELADA 3/8-16" ObjetoImp="02" ValorUnitario="0.565" Importe="25764.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="25764.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4122.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5330600000" Cantidad="18560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA BELLOTA NIQUELADA 1/2-13" ObjetoImp="02" ValorUnitario="1.759" Importe="32647.04">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32647.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5223.526"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5130400120" Cantidad="63900" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR COCHE GR-2 GALV 3/8-16 X 1.1/4" ObjetoImp="02" ValorUnitario="0.516" Importe="32972.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32972.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5275.584"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140400120" Cantidad="16200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 3/8-16 X 1-1/4" ObjetoImp="02" ValorUnitario="0.485" Importe="7857.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7857.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1257.120"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140500200" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 7/16-14 X 2" ObjetoImp="02" ValorUnitario="0.965" Importe="13896.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13896.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2223.360"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140500360" Cantidad="4500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 7/16-14 X 3-1/2" ObjetoImp="02" ValorUnitario="1.437" Importe="6466.50">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6466.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1034.640"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140500400" Cantidad="3740" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 7/16-14 X 4" ObjetoImp="02" ValorUnitario="1.599" Importe="5980.26">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5980.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="956.842"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140600160" Cantidad="17280" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 1/2-13 X 1-1/2" ObjetoImp="02" ValorUnitario="1.112" Importe="19215.36">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="19215.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3074.458"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140600200" Cantidad="6650" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 1/2-13 X 2" ObjetoImp="02" ValorUnitario="1.295" Importe="8611.75">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8611.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1377.880"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140600460" Cantidad="5400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 1/2-13 X 4-1/2" ObjetoImp="02" ValorUnitario="2.334" Importe="12603.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="12603.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2016.576"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5310050020" Cantidad="100000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA TINO 4 PUNTAS GALV 8-32 X 1/4" ObjetoImp="02" ValorUnitario="0.141" Importe="14100.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2256.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5310200050" Cantidad="216000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA TINO 4 PUNTAS GALV 1/4-20 X 7/16" ObjetoImp="02" ValorUnitario="0.174" Importe="37584.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="37584.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6013.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5310400040" Cantidad="72000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA TINO 4 PUNTAS GALV 3/8-16 X 3/8" ObjetoImp="02" ValorUnitario="0.355" Importe="25560.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="25560.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4089.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5315100030" Cantidad="50000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA TINO 4 PUNTAS GALV NF 10-32 X 5/16" ObjetoImp="02" ValorUnitario="0.142" Importe="7100.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="7100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1136.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1230500300" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO ARADO Gr-5 - 7/16 -14 x 3" ObjetoImp="02" ValorUnitario="1.811" Importe="26078.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="26078.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4172.544"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5130200200" Cantidad="90290" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR COCHE GR-2 GALV 1/4-20 X 2" ObjetoImp="02" ValorUnitario="0.285" Importe="25732.65">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="25732.65" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4117.224"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1140200200" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO COCHE GR-2 NEGRO - 1/4-20 X 2" ObjetoImp="02" ValorUnitario="0.247" Importe="21340.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21340.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3414.528"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1230600160" Cantidad="17950" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TORNILLO ARADO Gr-5 - 1/2-13 x 1-1/2" ObjetoImp="02" ValorUnitario="1.509" Importe="27086.55">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27086.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4333.848"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1130600160" Cantidad="14400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TOR COCHE GR5 NGRO 1/2-13 X 1-1/2" ObjetoImp="02" ValorUnitario="1.289" Importe="18561.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18561.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2969.856"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010852"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="156095.87">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="975599.21" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="156095.87" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

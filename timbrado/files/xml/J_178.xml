@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="1280211.90" Total="1485045.80" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000505493427" FormaPago="99" Fecha="2023-05-26T09:07:54" Serie="J" Folio="178" Version="4.0">
+ <cfdi:Emisor Rfc="ETR090424E82" Nombre="ELREYTOR TRADING" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5320300000" Cantidad="288000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; GALV 5/16-18" ObjetoImp="02" ValorUnitario="0.333" Importe="95904.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="95904.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15344.640"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5320400000" Cantidad="506119" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; GALV 3/8-16" ObjetoImp="02" ValorUnitario="0.487" Importe="246479.95">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="246479.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39436.792"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5320600000" Cantidad="224400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; GALV 1/2-13" ObjetoImp="02" ValorUnitario="1.115" Importe="250206.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="250206.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40032.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5320800000" Cantidad="274560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; GALV 5/8-11" ObjetoImp="02" ValorUnitario="2.148" Importe="589754.88">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="589754.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="94360.781"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5325600000" Cantidad="44400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; NF GALV 1/2-20" ObjetoImp="02" ValorUnitario="1.171" Importe="51992.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="51992.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8318.784"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="5326000000" Cantidad="4898" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TCA GRIPCO GRADO &quot;C&quot; NF GALV 1-14" ObjetoImp="02" ValorUnitario="9.366" Importe="45874.67">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="45874.67" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7339.947"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1774  3010910"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="204833.90">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="1280211.90" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="204833.90" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

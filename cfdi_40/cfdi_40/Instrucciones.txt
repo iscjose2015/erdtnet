@@ -1,0 +1,13 @@
+Instrucciones:
+
+1. Copiar este contenido en la carpeta "/curso_cfdi/cfdi_40/" del host. 
+Ejemplo: http://localhost/curso_cfdi/cfdi_40/
+
+2. Se incluye un XML de ejemplo "files/xml_enviados/X25.xml" 
+el cual para efectos de hacer varias pruebas, solo se debe actualizar la fecha y la hora
+
+3. Para Timbrar se usa el script: http://localhost/curso_cfdi/cfdi_40/xml_timbrarv4.php
+
+4. Para cancelar se usa el script: http://localhost/curso_cfdi/php/cfdi_cancelar40.php
+Para usar varias veces el Script de cfdi_cancelar40.php, se pueden sustituir los datos 
+del UUID de cancelación por el UUID recientemente timbrado (Paso 3).

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="580264.80" Total="673107.17" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-24T16:49:58" Serie="J" Folio="174" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="RTO970714TE1" Nombre="EL REY DEL TORNILLO" DomicilioFiscalReceptor="44490" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1500100300" Cantidad="162000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD PH PLANA NGRA 10 X 3" ObjetoImp="02" ValorUnitario="0.143" Importe="23166.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="23166.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3706.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1510080300" Cantidad="144000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD COMB PLANA NGRA 8 X 3" ObjetoImp="02" ValorUnitario="0.111" Importe="15984.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15984.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2557.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1510100200" Cantidad="216000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA MAD COMB PLANA NGRA 10 X 2" ObjetoImp="02" ValorUnitario="0.101" Importe="21816.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="21816.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3490.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="1550060120" Cantidad="288000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA-BROCA NGRA 6 X 1.1/4" ObjetoImp="02" ValorUnitario="0.055" Importe="15840.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15840.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2534.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5550060120" Cantidad="1728000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA-BROCA GALV 6 X 1.1/4" ObjetoImp="02" ValorUnitario="0.055" Importe="95040.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="95040.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15206.400"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5550060180" Cantidad="432000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA-BROCA GALV 6 X 1.5/8" ObjetoImp="02" ValorUnitario="0.065" Importe="28080.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="28080.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4492.800"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5550080300" Cantidad="324000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA TABLARROCA-BROCA GALV 8 X 3" ObjetoImp="02" ValorUnitario="0.147" Importe="47628.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="47628.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7620.480"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5620080100" Cantidad="576000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA K-LATH P/BROCA GALV 8 X 1 GALAXY" ObjetoImp="02" ValorUnitario="0.064" Importe="36864.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="36864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5898.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5620080160" Cantidad="216000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA K-LATH P/BROCA GALV 8 X 1.1/2 GALAXY" ObjetoImp="02" ValorUnitario="0.085" Importe="18360.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="18360.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2937.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5670080090" Cantidad="360000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA K-LATH &quot;AB&quot; GALV 8 X 3/4" ObjetoImp="02" ValorUnitario="0.046" Importe="16560.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="16560.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2649.600"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140200" Cantidad="64800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 2" ObjetoImp="02" ValorUnitario="0.267" Importe="17301.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="17301.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2768.256"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140300" Cantidad="36000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 3" ObjetoImp="02" ValorUnitario="0.375" Importe="13500.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2160.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5640140400" Cantidad="28800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA HEX AGUDA GALV 14 X 4" ObjetoImp="02" ValorUnitario="0.469" Importe="13507.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13507.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2161.152"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5650120120" Cantidad="252000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA LAMINA COMB GALV 12 X 1.1/4" ObjetoImp="02" ValorUnitario="0.128" Importe="32256.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="32256.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5160.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5650120160" Cantidad="213000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA LAMINA COMB GALV 12 X 1.1/2" ObjetoImp="02" ValorUnitario="0.148" Importe="31524.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="31524.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5043.840"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5650120200" Cantidad="294000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA LAMINA COMB GALV 12 X 2" ObjetoImp="02" ValorUnitario="0.186" Importe="54684.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="54684.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8749.440"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5690100100" Cantidad="483000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA PARA LAMINA CAB PLANA 10 X 1" ObjetoImp="02" ValorUnitario="0.069" Importe="33327.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="33327.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5332.320"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5690100120" Cantidad="504000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA PARA LAMINA CAB PLANA 10 X 1.1/4" ObjetoImp="02" ValorUnitario="0.083" Importe="41832.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="41832.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6693.120"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161500" NoIdentificacion="5690100200" Cantidad="182500" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIJA PARA LAMINA CAB PLANA 10 X 2" ObjetoImp="02" ValorUnitario="0.126" Importe="22995.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22995.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3679.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002771"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="92842.37">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="580264.80" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92842.37" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>

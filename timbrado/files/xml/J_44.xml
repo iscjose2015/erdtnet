@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Exportacion="01" LugarExpedicion="56260" MetodoPago="PPD" TipoDeComprobante="I" SubTotal="170506.80" Total="197787.89" Moneda="MXN" TipoCambio="1" Certificado="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" NoCertificado="00001000000410038954" FormaPago="99" Fecha="2023-05-03T11:08:20" Serie="J" Folio="44" Version="4.0">
+ <cfdi:Emisor Rfc="VEL131203UE5" Nombre="VELIM" RegimenFiscal="601"/>
+ <cfdi:Receptor Rfc="GTE140918NR8" Nombre="GRUPO TORNILLERO ERT" DomicilioFiscalReceptor="08100" RegimenFiscalReceptor="601" UsoCFDI="G01"/>
+ <cfdi:Conceptos>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410100000" Cantidad="1080000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 3/16" ObjetoImp="02" ValorUnitario="0.009" Importe="9720.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9720.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1555.200"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410200000" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 1/4" ObjetoImp="02" ValorUnitario="0.026" Importe="3369.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="3369.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="539.136"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410400000" Cantidad="432000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 3/8" ObjetoImp="02" ValorUnitario="0.063" Importe="27216.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="27216.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4354.560"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410500000" Cantidad="64800" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 7/16" ObjetoImp="02" ValorUnitario="0.088" Importe="5702.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="5702.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="912.384"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410800000" Cantidad="34560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 5/8" ObjetoImp="02" ValorUnitario="0.235" Importe="8121.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8121.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1299.456"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410400000" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 3/8" ObjetoImp="02" ValorUnitario="0.058" Importe="6264.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6264.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1002.240"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410600000" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 1/2" ObjetoImp="02" ValorUnitario="0.121" Importe="15681.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="15681.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2509.056"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1411200000" Cantidad="5760" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 1.1/4" ObjetoImp="02" ValorUnitario="1.67" Importe="9619.20">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="9619.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1539.072"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="2411000000" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND MM PRESION NEGRA M10" ObjetoImp="02" ValorUnitario="0.057" Importe="6156.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6156.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="984.960"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410400000" Cantidad="108000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 3/8" ObjetoImp="02" ValorUnitario="0.075" Importe="8100.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="8100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1296.000"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410500000" Cantidad="129600" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 7/16" ObjetoImp="02" ValorUnitario="0.105" Importe="13608.00">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13608.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2177.280"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410600000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 1/2" ObjetoImp="02" ValorUnitario="0.154" Importe="13305.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="13305.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2128.896"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1410700000" Cantidad="32400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION NEGRA 9/16" ObjetoImp="02" ValorUnitario="0.211" Importe="6836.40">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="6836.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1093.824"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="1470900000" Cantidad="34560" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RONDANA PLANA F436 NGRA 3/4" ObjetoImp="02" ValorUnitario="0.655" Importe="22636.80">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="22636.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3621.888"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+  <cfdi:Concepto ClaveProdServ="31161800" NoIdentificacion="5410600000" Cantidad="86400" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROND PRESION GALV 1/2" ObjetoImp="02" ValorUnitario="0.164" Importe="14169.60">
+   <cfdi:Impuestos>
+    <cfdi:Traslados>
+     <cfdi:Traslado Base="14169.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2267.136"/>
+    </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:InformacionAduanera NumeroPedimento="23  16  1861  3002620"/>
+  </cfdi:Concepto>
+ </cfdi:Conceptos>
+ <cfdi:Impuestos TotalImpuestosTrasladados="27281.09">
+  <cfdi:Traslados>
+   <cfdi:Traslado Base="170506.80" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27281.09" Impuesto="002"/>
+  </cfdi:Traslados>
+ </cfdi:Impuestos>
+</cfdi:Comprobante>
